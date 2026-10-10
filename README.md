@@ -6,7 +6,7 @@ A Codex skill that turns rough ideas into interactive HTML demos through guided 
 
 适合需要与负责人、客户或其他需求方讨论方案的人。你不必先写完整PRD，也不必先学方法编号。Skill根据当前未知选择问题，复用已有回答，最终交付能实际操作的HTML原型及对齐记录。
 
-版本：**0.1.0 · 试用版**。由 [geekwong-tech](https://github.com/geekwong-tech) 维护。语言以中文为主，输出语言可按用户要求调整。
+版本：**0.1.1 · 试用版**。由 [geekwong-tech](https://github.com/geekwong-tech) 维护。语言以中文为主，输出语言可按用户要求调整。
 
 ![模拟客户交接 Demo](docs/demo-preview.png)
 
@@ -14,7 +14,7 @@ A Codex skill that turns rough ideas into interactive HTML demos through guided 
 
 ## 快速开始
 
-1. 从 [Releases](https://github.com/geekwong-tech/idea-to-demo/releases) 下载 `idea-to-demo-0.1.0.zip` 并解压。
+1. 从 [Releases](https://github.com/geekwong-tech/idea-to-demo/releases) 下载 `idea-to-demo-0.1.1.zip` 并解压。
 2. 把整个 `idea-to-demo` 文件夹放到**一个**位置：
    - 个人使用：`~/.agents/skills/idea-to-demo/`。
    - 仅当前项目：`你的项目/.agents/skills/idea-to-demo/`。
@@ -75,4 +75,4 @@ A Codex skill that turns rough ideas into interactive HTML demos through guided 
 - [方法来源与归属说明](ATTRIBUTION.md)：SOP为对手册原则的操作化设计，原始手册未随仓库分发。
 - [贡献说明](CONTRIBUTING.md)：欢迎提交可复现问题、具体场景和改进建议，请用合成或脱敏材料。
 - [更新记录](CHANGELOG.md) · [发布记录](https://github.com/geekwong-tech/idea-to-demo/releases)。
-- 许可状态见[许可说明](LICENSE-NOTICE.md)。
+- 采用[有限使用许可1.0](LICENSE)：允许内部使用、修改及免费分享，允许产出用于自己的商业项目；禁止售卖Skill/SOP、打包进收费产品或对外收费提供调用服务。[完整说明](LICENSE-NOTICE.md)。这是公开源码、有限授权项目，不是标准开源项目。
