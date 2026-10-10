@@ -1,0 +1,4 @@
+interface:
+  display_name: "想法到对齐 Demo"
+  short_description: "用团队 SOP 逐步梳理模糊需求，生成可交互 HTML Demo 并承接需求方反馈"
+  default_prompt: "用 $idea-to-demo 帮我梳理这个想法，选择合适的 SOP，逐步提问，做成能与需求方对齐的 HTML Demo。"

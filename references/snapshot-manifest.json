@@ -1,0 +1,21 @@
+{
+  "skill_version": "0.1.0",
+  "sop_version": "v0.1",
+  "status": "内部待试用",
+  "files": {
+    "framework/sop/M01.md": "95dbe3afb0d3b0b452f9b7d445849b2cf3b970809d6f005abaab26378c7aebdd",
+    "framework/sop/M02.md": "d817749df345df68089eb8d693bc0062692868f47418714a64b7355b8a5ae594",
+    "framework/sop/M03.md": "a3425214e1ecc2365e5f38d8f874d2ede425c44aff383464951c0f99cc50d557",
+    "framework/sop/M04.md": "993207bf90411c8d6b43f6c86a8d8d20b809192637c80522af307a4461e4daa1",
+    "framework/sop/M05.md": "a8660aa2487d8054a36c7d33035597cad1abf1fc7046c47c7f07f08337106f22",
+    "framework/sop/M06.md": "7333e01655bd6a28a009c6e33083bb5a4a87eab58de184b181775725cc862932",
+    "framework/sop/M07.md": "aaf65a1cadfff7c3e029a9dc0027cd018019608d1852f667abce4bda78f7d6ab",
+    "framework/sop/M08.md": "787e294db420112eb486f486a05f02d7e6f6155b06282c7aa82f0bb00d50df47",
+    "framework/sop/M09.md": "94ca53ea2227e1f9189b5be14be98dbdfadf900ae88006e1d1744b3b4d856028",
+    "framework/sop/M10.md": "c234d7ee59bf5a8d5264da817c5f3e90efbea3230a842c2744a1e3447876c5cd",
+    "framework/sop/M11.md": "4f32ee0348acb9c37a4fab3d9999fcc02daefe0fb0b942d483e4ddbb8f3aedd2",
+    "framework/sop/M12.md": "e3255d1273f97b02aa673054b257f60e8cd597c31a893d859429423d16bbbbaf",
+    "framework/sop/M13.md": "05e2eb8cd93e5b606d122a66dad420afc18c34f4c05f1e018089aca934e5733f",
+    "framework/sop/M14.md": "d78e42c7dc6cd7ea1340134694a09fa6f6ca01568c4ee4e9a1edac683ba5dbe9"
+  }
+}
